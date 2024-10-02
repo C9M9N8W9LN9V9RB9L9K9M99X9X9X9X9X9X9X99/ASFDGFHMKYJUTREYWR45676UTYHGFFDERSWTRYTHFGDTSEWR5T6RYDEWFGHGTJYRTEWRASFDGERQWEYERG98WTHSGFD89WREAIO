@@ -1,0 +1,6 @@
+{
+    "SynapseVersion": "2.0.9",
+    "HwidsUrl": "https://raw.githubusercontent.com/markitos4/SynXRe/main/Hwids",
+    "UsersUrl": "https://raw.githubusercontent.com/markitos4/SynXRe/refs/heads/main/Users",
+    "Endpoint": "https://raw.githubusercontent.com/markitos4/SynXRe/refs/heads/main/EndPoint",
+}
